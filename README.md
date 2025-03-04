@@ -6,6 +6,10 @@
 * [Mar 2025] - A/B Testing on Click-Through Rate [Link](https://github.com/Leviiest/Project_Portfolio/blob/main/AB%20Testing%20Click-Through%20Rate.ipynb)
 * [Jan 2025] - Forcasting Sales with Linear Regression [Link](https://github.com/Leviiest/Project_Portfolio/blob/main/Python%20-%20EDA%20and%20Linear%20Regression%20Forcasting.ipynb)
 
+
+<br></br>
+
+
 ## 2024 Projects
 * [Aug 2024] - Data Cleaning with SQL [Link](https://github.com/Leviiest/Project_Portfolio/blob/main/SQL%20-%20Data%20Cleaning%20Project.sql)
 * [Jul 2024] - Citi-Bike Time Series Analysis [Link](https://github.com/Leviiest/Project_Portfolio/blob/main/Citibike%20Time%20Series%20Analysis.ipynb)
